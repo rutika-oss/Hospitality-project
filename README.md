@@ -69,6 +69,7 @@ The report is designed for quick business review: users can compare properties, 
 - City and category-level quality signals
 
 </details>
+<img width="1076" height="684" alt="Hospitality" src="https://github.com/user-attachments/assets/6d04d41f-e054-4ab0-bfd7-5e4b9cfd6d20" />
 
 ## Key Insights
 
